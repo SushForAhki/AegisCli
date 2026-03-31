@@ -1,0 +1,17 @@
+requests>=2.31.0
+colorama>=0.4.6
+
+# Runtime requirements
+# Python 3.10+
+# Standard library modules used by the project:
+# socket
+# ssl
+# json
+# re
+# os
+# sys
+# hashlib
+# ipaddress
+# datetime
+# concurrent.futures
+# urllib.parse
