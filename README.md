@@ -90,7 +90,9 @@ pip install -r requirements.txt
 Aracı çalıştırmak için:
 
 ```bash
-python main.py
+git clone https://github.com/SushForAhki/AegisCli.git
+cd AegisCli
+python Aegis.py
 ```
 
 Program açıldığında ana menü üzerinden istediğin modülü seçerek kullanabilirsin.
